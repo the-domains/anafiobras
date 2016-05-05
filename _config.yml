@@ -1,7 +1,7 @@
 name: Anafiobras
 favicon: null
-layout_spectrum: 0.25380554562434554
-typography_spectrum: 0.1025074040517211
+layout_spectrum: 0.99212
+typography_spectrum: 0.55027
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.02377510257065296
   lightness: 0.6588769492227584
   saturation: 0.5139870641287416
-  rhythmicContrast: 0.18749133683741093
+  rhythmicContrast: 0.25
 purpose: []
