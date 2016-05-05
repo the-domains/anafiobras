@@ -1,0 +1,28 @@
+name: Anafiobras
+favicon: null
+layout_spectrum: 0.25380554562434554
+typography_spectrum: 0.1025074040517211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.02377510257065296
+  lightness: 0.6588769492227584
+  saturation: 0.5139870641287416
+  rhythmicContrast: 0.18749133683741093
+purpose: []
